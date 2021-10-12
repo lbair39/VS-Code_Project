@@ -1,16 +1,20 @@
 paraOne{
-    display:block;
-    float:left;
+    display:inline-block;
+    
 }
 paraTwo{
-    display:block;
-    float:right; 
+   display:inline-block;
+   
 }
 p{
-    border: 2px solid black;
+    border: 5px solid #607099;
     border-radius: 25px;
     padding:10px;
-    margin-left:10px;
-    margin-right: 10px;
-    width: 400px;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    margin-left: 300px;
+    margin-top: 300px;
+    
+
 }
